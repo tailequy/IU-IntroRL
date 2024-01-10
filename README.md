@@ -1,1 +1,1 @@
-# IU-IntroRL
+# Introduction to Reinforcement Learning - IU
